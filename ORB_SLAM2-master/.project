@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ORB_SLAM2-Debug@ORB_SLAM2-master</name>
+	<comment></comment>
+	<projects></projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.makeBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.cleanBuildTarget</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enabledIncrementalBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.command</key>
+					<value>/usr/bin/make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.inc</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.arguments</key>
+					<value>-j6</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.environment</key>
+					<value>VERBOSE=1|CMAKE_NO_VERBOSE=1|</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.auto</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.clean</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.fullBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.location</key>
+					<value>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.core.errorOutputParser</key>
+					<value>org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.ScannerConfigBuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.make.core.makeNature</nature>
+		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Source Files/mono_euroc.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/Monocular/mono_euroc.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_euroc/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Source Files/rgbd_tum.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/RGB-D/rgbd_tum.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] rgbd_tum/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Source Files/mono_kitti.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/Monocular/mono_kitti.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_kitti/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Source Files/stereo_kitti.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/Stereo/stereo_kitti.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_kitti/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Source Files/stereo_euroc.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/Stereo/stereo_euroc.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] stereo_euroc/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/System.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/System.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Tracking.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Tracking.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/LocalMapping.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/LocalMapping.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/LoopClosing.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/LoopClosing.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/ORBextractor.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/ORBextractor.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/ORBmatcher.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/ORBmatcher.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/FrameDrawer.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/FrameDrawer.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Converter.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Converter.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/MapPoint.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/MapPoint.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/KeyFrame.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/KeyFrame.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Map.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Map.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/MapDrawer.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/MapDrawer.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Optimizer.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Optimizer.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/PnPsolver.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/PnPsolver.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Frame.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Frame.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/KeyFrameDatabase.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/KeyFrameDatabase.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Sim3Solver.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Sim3Solver.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Initializer.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Initializer.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Source Files/Viewer.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/src/Viewer.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ORB_SLAM2/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Source Files/mono_tum.cc</name>
+			<type>1</type>
+			<location>/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/Examples/Monocular/mono_tum.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] mono_tum/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

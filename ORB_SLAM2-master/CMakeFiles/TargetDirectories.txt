@@ -1,0 +1,9 @@
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/rebuild_cache.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/edit_cache.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/mono_euroc.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/rgbd_tum.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/mono_kitti.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/stereo_kitti.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/stereo_euroc.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/ORB_SLAM2.dir
+/home/admin1/Desktop/slam/slam-Sequential_ORB_SLAM2-ORB_SLAM2-master/ORB_SLAM2-master/CMakeFiles/mono_tum.dir
