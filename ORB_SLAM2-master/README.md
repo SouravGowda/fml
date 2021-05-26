@@ -112,7 +112,7 @@ This will create **libORB_SLAM2.so**  at *lib* folder and the executables **mono
 ./Examples/Monocular/mono_kitti Vocabulary/ORBvoc.txt Examples/Monocular/KITTIX.yaml PATH_TO_DATASET_FOLDER/dataset/sequences/SEQUENCE_NUMBER
 ```
 
-## EuRoC Dataset
+## EuRoC Dataset 
 
 1. Download a sequence (ASL format) from http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
